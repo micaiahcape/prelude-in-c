@@ -1,0 +1,18 @@
+body{
+    font-family: 'Mulish', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#download{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#number{
+    font-size: 40px;
+    text-align: center;
+    color: orange;
+    margin-top: 10px;
+}
