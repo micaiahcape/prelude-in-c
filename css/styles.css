@@ -16,3 +16,81 @@ body{
     color: orange;
     margin-top: 10px;
 }
+
+.header{
+    margin-top: 40px;
+    margin-left: 150px;
+    font-size: 40px;
+}
+
+#description{
+    font-size: 25px;
+    color: #7f8581;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-left: 3px dotted orange;
+    padding-left: 20px;
+    margin-bottom: 0;
+    text-align: justify
+}
+
+#readmore{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 4px;
+    color: orange;
+    -webkit-user-select: none;
+
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#readmore:hover{
+    color: orange;
+    transition: 0.1s;
+    border: 1px dotted orange;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#reminder{
+    margin-left: 150px;
+    color: #7f8581;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+#innerlink{
+    color: #7f8581;
+}
+
+#innerlink:hover{
+    color: orange;
+    transition: 0.8s;
+}
+
+#downloadoption{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.downloadbtn{
+    background-color: darkorange;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+    transition: 0.8s;
+    margin-left: 30px;
+}
+
+.downloadbtn:hover{
+    color: white;
+    background-color: orange;
+    border-radius: 40px;
+}
